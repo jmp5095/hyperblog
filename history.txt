@@ -1,5 +1,7 @@
 Historia de Juan
 
-Hola soy juan manuel y tengo 27 años. soy análista y desarrollador de software.
+Hola soy juan manuel y tengo 27 años. soy analista y desarrollador de software.
 
-hablaremos de sus gustos y sobre todo el gusto por ella.
+mañana nos centraremos en su vida laboral
+
+probando: git reset codigo --soft
